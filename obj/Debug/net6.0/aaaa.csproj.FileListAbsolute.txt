@@ -1,0 +1,15 @@
+C:\Users\natha\Desktop\Volibear\aaaa\bin\Debug\net6.0\aaaa.exe
+C:\Users\natha\Desktop\Volibear\aaaa\bin\Debug\net6.0\aaaa.deps.json
+C:\Users\natha\Desktop\Volibear\aaaa\bin\Debug\net6.0\aaaa.runtimeconfig.json
+C:\Users\natha\Desktop\Volibear\aaaa\bin\Debug\net6.0\aaaa.dll
+C:\Users\natha\Desktop\Volibear\aaaa\bin\Debug\net6.0\aaaa.pdb
+C:\Users\natha\Desktop\Volibear\aaaa\obj\Debug\net6.0\aaaa.csproj.AssemblyReference.cache
+C:\Users\natha\Desktop\Volibear\aaaa\obj\Debug\net6.0\aaaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Desktop\Volibear\aaaa\obj\Debug\net6.0\aaaa.AssemblyInfoInputs.cache
+C:\Users\natha\Desktop\Volibear\aaaa\obj\Debug\net6.0\aaaa.AssemblyInfo.cs
+C:\Users\natha\Desktop\Volibear\aaaa\obj\Debug\net6.0\aaaa.csproj.CoreCompileInputs.cache
+C:\Users\natha\Desktop\Volibear\aaaa\obj\Debug\net6.0\aaaa.dll
+C:\Users\natha\Desktop\Volibear\aaaa\obj\Debug\net6.0\refint\aaaa.dll
+C:\Users\natha\Desktop\Volibear\aaaa\obj\Debug\net6.0\aaaa.pdb
+C:\Users\natha\Desktop\Volibear\aaaa\obj\Debug\net6.0\aaaa.genruntimeconfig.cache
+C:\Users\natha\Desktop\Volibear\aaaa\obj\Debug\net6.0\ref\aaaa.dll
